@@ -9,13 +9,13 @@
 
 Все практические работы адаптированы для запуска в среде Google Colab. Для начала работы просто откройте соответствующий файл из списка ниже:
 
-*   [**Глава 2: MongoDB**](./glava_02.ipynb) — Работа с документо-ориентированной СУБД.
-*   [**Глава 3: Redis**](./glava_03_Redis.ipynb) — Системы реального времени и кэширование.
-*   [**Глава 4: Cassandra**](./glava_04_Cassandra.ipynb) — Колоночные БД и IoT-метрики.
-*   [**Глава 5: Neo4j**](./glava_05_Neo4j.ipynb) — Графовые модели и рекомендации.
-*   [**Глава 6: Elasticsearch**](./glava_06_Elasticsearch.ipynb) — Полнотекстовый поиск и автодополнение.
-*   [**Глава 7: Vector DB**](./glava_07.ipynb) — Семантический поиск и интеграция с LLM (ИИ).
-*   [**Глава 8: Patterns**](./glava_08.ipynb) — Проектирование (CQRS, Event Sourcing).
+*   [**Глава 2: MongoDB**](./practice/glava_02.ipynb) — Работа с документо-ориентированной СУБД.
+*   [**Глава 3: Redis**](./practice/glava_03_Redis.ipynb) — Системы реального времени и кэширование.
+*   [**Глава 4: Cassandra**](./practice/glava_04_Cassandra.ipynb) — Колоночные БД и IoT-метрики.
+*   [**Глава 5: Neo4j**](./practice/glava_05_Neo4j.ipynb) — Графовые модели и рекомендации.
+*   [**Глава 6: Elasticsearch**](./practice/glava_06_Elasticsearch.ipynb) — Полнотекстовый поиск и автодополнение.
+*   [**Глава 7: Vector DB**](./practice/glava_07.ipynb) — Семантический поиск и интеграция с LLM (ИИ).
+*   [**Глава 8: Patterns**](./practice/glava_08.ipynb) — Проектирование (CQRS, Event Sourcing).
 
 ---
 
